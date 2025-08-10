@@ -10,9 +10,9 @@ pipeline {
         BACKEND_DIR = 'crud_backend/crud_backend-main'
         FRONTEND_DIR = 'crud_frontend/crud_frontend-main'
 
-        TOMCAT_URL = 'http://184.72.122.226:9090/manager/text'
-        TOMCAT_USER = 'admin'
-        TOMCAT_PASS = 'admin'
+        TOMCAT_URL = 'http://3.67.171.136:9090/manager/text'
+        TOMCAT_USER = '2300033579'
+        TOMCAT_PASS = '2300033579'
 
         BACKEND_WAR = 'springapp1.war'
         FRONTEND_WAR = 'frontapp1.war'
